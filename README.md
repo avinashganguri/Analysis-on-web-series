@@ -1,6 +1,6 @@
 # Analysis-on-web-series
 
-**_Analyzed and visualized Twitter data during Covid-19 lockdown period about what people are interested in watching web series and engaging their views in social media._**
+**_Analyzed and visualized Twitter data during Covid-19 lockdown period, about what people are interested in watching web series and engaging their views in social media._**
 
 ## Team Members:
 
