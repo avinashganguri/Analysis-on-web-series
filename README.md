@@ -6,8 +6,6 @@
 
 • Avinash Ganguri
 
-• Akhil Teja Kanugolu
-
 • Geetanjali Makineni
 
 • Bhashitha Siddareddy
